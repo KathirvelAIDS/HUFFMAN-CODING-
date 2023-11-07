@@ -29,10 +29,15 @@ Print the characters and its Huffman code.
  
 ## Program:
 
-``` Python
-# Get the input String
 
-string=input("Mohanraj 212221230065")
+```
+NAME:KATHIRVEL.A
+REG NO:212221230047
+```
+
+``` Python
+# Get the input String:
+
 
 # Create tree nodes
 
